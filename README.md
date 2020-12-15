@@ -1,8 +1,12 @@
 # Basic Calculator
 
-A basic calculator for simple and fast calculations
+A basic calculator for simple and fast calculations.
 
-#WHAT I LEARNED
+# Made For
+
+Software Construction Course, as a assignment.
+
+# What I Learned
 
  * Basic Coding 
  * Basic Algorithms
